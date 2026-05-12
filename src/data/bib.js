@@ -1,169 +1,171 @@
-@article{baty2024combinatorial,
-  author    = {Baty, L\'{e}o and Jungel, Kai and Klein, Patrick S. and Parmentier, Axel and Schiffer, Maximilian},
-  title     = {Combinatorial Optimization-Enriched Machine Learning to Solve the Dynamic Vehicle Routing Problem with Time Windows},
-  journal   = {Transportation Science},
-  volume    = {58},
-  number    = {4},
-  pages     = {708--725},
-  year      = {2024},
-  doi       = {10.1287/trsc.2023.0107},
-  url       = {https://doi.org/10.1287/trsc.2023.0107},
-  keywords  = {type:Structured_Solver_Hybrid, dynamic_VRP, VRPTW, structured_learning, stochastic_optimization}
-}
-
-@inproceedings{chen2019learning,
-  author    = {Chen, Xinyun and Tian, Yuandong},
-  title     = {Learning to Perform Local Rewriting for Combinatorial Optimization},
-  booktitle = {Advances in Neural Information Processing Systems},
-  volume    = {32},
-  pages     = {6278--6289},
-  year      = {2019},
-  doi       = {10.5555/3454287.3454968},
-  url       = {https://proceedings.neurips.cc/paper/2019/hash/131f383b434fdf48079bff1e44e2d9a5-Abstract.html},
-  keywords  = {type:Neural_Improvement, reinforcement_learning, iterative_rewriting, CVRP, neural_combinatorial_optimization}
-}
-
-@article{desaulniers2021machine,
-  author    = {Desaulniers, Guy and Lodi, Andrea and Morabit, Mouad},
-  title     = {Machine-Learning--Based Column Selection for Column Generation},
-  journal   = {Transportation Science},
-  volume    = {55},
-  number    = {4},
-  pages     = {815--831},
-  year      = {2021},
-  doi       = {10.1287/trsc.2021.1045},
-  url       = {https://doi.org/10.1287/trsc.2021.1045},
-  keywords  = {type:Structured_Solver_Hybrid, supervised_learning, column_selection, column_generation, VRPTW}
-}
-
-
-@article{ghosal2020distributionally,
-  author    = {Ghosal, Shubhechyya and Wiesemann, Wolfram},
-  title     = {The Distributionally Robust Chance-Constrained Vehicle Routing Problem},
-  journal   = {Operations Research},
-  volume    = {68},
-  number    = {3},
-  pages     = {716--732},
-  year      = {2020},
-  doi       = {10.1287/opre.2019.1924},
-  url       = {https://doi.org/10.1287/opre.2019.1924},
-  keywords  = {type:Uncertainty_Modelling, distributionally_robust_optimization, chance_constrained, stochastic_VRP, branch_and_cut}
-}
-
-@article{hottung2022neural,
-  author    = {Hottung, Andr\'{e} and Tierney, Kevin},
-  title     = {Neural Large Neighborhood Search for Routing Problems},
-  journal   = {Artificial Intelligence},
-  volume    = {313},
-  pages     = {103786},
-  year      = {2022},
-  doi       = {10.1016/j.artint.2022.103786},
-  url       = {https://doi.org/10.1016/j.artint.2022.103786},
-  keywords  = {type:Neural_Improvement, large_neighborhood_search, attention_mechanism, repair_heuristic, CVRP, SDVRP, CTOP}
-}
-
-@inproceedings{kool2019attention,
-  author    = {Kool, Wouter and van Hoof, Herke and Welling, Max},
-  title     = {Attention, Learn to Solve Routing Problems!},
-  booktitle = {Proceedings of the 7th International Conference on Learning Representations (ICLR 2019)},
-  year      = {2019},
-  note      = {ICLR 2019. No publisher DOI assigned; OpenReview URL is canonical.},
-  url       = {https://openreview.net/forum?id=ByxBFsRqYm},
-  keywords  = {type:Neural_Construction, attention_mechanism, CVRP, SDVRP, OP, PCTSP, reinforcement_learning}
-}
-
-@inproceedings{kwon2020pomo,
-  author    = {Kwon, Yeong-Dae and Choo, Jinho and Kim, Byoungjip and Yoon, Iljoo and Gwon, Youngjune and Min, Seungjai},
-  title     = {{POMO}: Policy Optimization with Multiple Optima for Reinforcement Learning},
-  booktitle = {Advances in Neural Information Processing Systems},
-  volume    = {33},
-  pages     = {21188--21198},
-  year      = {2020},
-  doi       = {10.48550/arXiv.2010.16011},
-  note      = {NeurIPS 2020. No publisher DOI assigned; arXiv DOI refers to preprint arXiv:2010.16011.},
-  url       = {https://proceedings.neurips.cc/paper/2020/hash/f231f2107df69eab0a3862d50018a9b2-Abstract.html},
-  keywords  = {type:Neural_Construction, reinforcement_learning, multiple_optima, CVRP, TSP, transformer}
-}
-
-@inproceedings{lu2020learning,
-  author    = {Lu, Hao and Zhang, Xingwen and Yang, Shuang},
-  title     = {A Learning-Based Iterative Method for Solving Vehicle Routing Problems},
-  booktitle = {Proceedings of the 8th International Conference on Learning Representations (ICLR 2020)},
-  year      = {2020},
-  note      = {ICLR 2020. No publisher DOI assigned; OpenReview URL is canonical.},
-  url       = {https://openreview.net/forum?id=BJe1334YDH},
-  keywords  = {type:Neural_Improvement, reinforcement_learning, iterative_improvement, CVRP, adaptive_operator_selection}
-}
-
-@inproceedings{nazari2018reinforcement,
-  author    = {Nazari, MohammadReza and Oroojlooy, Afshin and Snyder, Lawrence V. and Tak\'{a}\v{c}, Martin},
-  title     = {Reinforcement Learning for Solving the Vehicle Routing Problem},
-  booktitle = {Advances in Neural Information Processing Systems},
-  volume    = {31},
-  pages     = {9839--9849},
-  year      = {2018},
-  doi       = {10.5555/3327546.3327651},
-  url       = {https://dl.acm.org/doi/10.5555/3327546.3327651},
-  keywords  = {type:Neural_Construction, reinforcement_learning, actor_critic, CVRP}
-}
-
-@article{qiao2025combined,
-  author    = {Qiao, Yu and Miao, Jianjun and Huang, Xiaoying},
-  title     = {A Combined Diffusion Model and Reinforcement Learning Approach for Solving the Vehicle Routing Problem with Multiple Soft Time Windows},
-  journal   = {IEEE Access},
-  volume    = {13},
-  pages     = {113529--113543},
-  year      = {2025},
-  doi       = {10.1109/ACCESS.2025.3583984},
-  url       = {https://doi.org/10.1109/ACCESS.2025.3583984},
-  keywords  = {type:Generative_Extension, diffusion_model, reinforcement_learning, VRPMSTW, soft_time_windows}
-}
-
-@article{ulmer2020modeling,
-  author    = {Ulmer, Marlin W. and Goodson, Justin C. and Mattfeld, Dirk C. and Thomas, Barrett W.},
-  title     = {On Modeling Stochastic Dynamic Vehicle Routing Problems},
-  journal   = {EURO Journal on Transportation and Logistics},
-  volume    = {9},
-  pages     = {100008},
-  year      = {2020},
-  doi       = {10.1016/j.ejtl.2020.100008},
-  url       = {https://doi.org/10.1016/j.ejtl.2020.100008},
-  keywords  = {type:Uncertainty_Modelling, route_based_MDP, dynamic_VRP, stochastic_VRP, approximate_dynamic_programming}
-}
-
-@inproceedings{vinyals2015pointer,
-  author    = {Vinyals, Oriol and Fortunato, Meire and Jaitly, Navdeep},
-  title     = {Pointer Networks},
-  booktitle = {Advances in Neural Information Processing Systems},
-  volume    = {28},
-  pages     = {2692--2700},
-  year      = {2015},
-  doi       = {10.5555/2969239.2969378},
-  url       = {https://papers.nips.cc/paper/5866-pointer-networks},
-  keywords  = {type:Neural_Construction, pointer_network, attention_mechanism, TSP, supervised_learning}
-}
- 
-@article{bai2023analytics,
-  author  = {Bai, Ruibin and Chen, Xiang and Chen, Zhi-Long and others},
-  title   = {Analytics and Machine Learning in Vehicle Routing Research},
-  journal = {International Transactions in Operational Research},
-  volume  = {30},
-  number  = {3},
-  pages   = {1128--1181},
-  year    = {2023},
-  doi     = {10.1111/itor.13141},
-  url     = {https://doi.org/10.1111/itor.13141}
-}
-
-@article{dantzig1959truck,
-  author    = {Dantzig, George B. and Ramser, John H.},
-  title     = {The Truck Dispatching Problem},
-  journal   = {Management Science},
-  volume    = {6},
-  number    = {1},
-  pages     = {80--91},
-  year      = {1959},
-  doi       = {10.1287/mnsc.6.1.80},
-  url       = {https://doi.org/10.1287/mnsc.6.1.80},
-  keywords  = {vehicle_routing, classical}
-}
+const generatedBibEntries = {
+    "bai2023analytics": {
+        "author": "Bai, Ruibin and Chen, Xiang and Chen, Zhi-Long and others",
+        "doi": "10.1111/itor.13141",
+        "journal": "International Transactions in Operational Research",
+        "number": "3",
+        "pages": "1128--1181",
+        "title": "Analytics and Machine Learning in Vehicle Routing Research",
+        "type": "article",
+        "url": "https://doi.org/10.1111/itor.13141",
+        "volume": "30",
+        "year": "2023"
+    },
+    "baty2024combinatorial": {
+        "author": "Baty, L\\'{e}o and Jungel, Kai and Klein, Patrick S. and Parmentier, Axel and Schiffer, Maximilian",
+        "doi": "10.1287/trsc.2023.0107",
+        "journal": "Transportation Science",
+        "keywords": "type:Structured_Solver_Hybrid, dynamic_VRP, VRPTW, structured_learning, stochastic_optimization",
+        "number": "4",
+        "pages": "708--725",
+        "title": "Combinatorial Optimization-Enriched Machine Learning to Solve the Dynamic Vehicle Routing Problem with Time Windows",
+        "type": "article",
+        "url": "https://doi.org/10.1287/trsc.2023.0107",
+        "volume": "58",
+        "year": "2024"
+    },
+    "chen2019learning": {
+        "author": "Chen, Xinyun and Tian, Yuandong",
+        "booktitle": "Advances in Neural Information Processing Systems",
+        "doi": "10.5555/3454287.3454968",
+        "keywords": "type:Neural_Improvement, reinforcement_learning, iterative_rewriting, CVRP, neural_combinatorial_optimization",
+        "pages": "6278--6289",
+        "title": "Learning to Perform Local Rewriting for Combinatorial Optimization",
+        "type": "inproceedings",
+        "url": "https://proceedings.neurips.cc/paper/2019/hash/131f383b434fdf48079bff1e44e2d9a5-Abstract.html",
+        "volume": "32",
+        "year": "2019"
+    },
+    "dantzig1959truck": {
+        "author": "Dantzig, George B. and Ramser, John H.",
+        "doi": "10.1287/mnsc.6.1.80",
+        "journal": "Management Science",
+        "keywords": "vehicle_routing, classical",
+        "number": "1",
+        "pages": "80--91",
+        "title": "The Truck Dispatching Problem",
+        "type": "article",
+        "url": "https://doi.org/10.1287/mnsc.6.1.80",
+        "volume": "6",
+        "year": "1959"
+    },
+    "desaulniers2021machine": {
+        "author": "Desaulniers, Guy and Lodi, Andrea and Morabit, Mouad",
+        "doi": "10.1287/trsc.2021.1045",
+        "journal": "Transportation Science",
+        "keywords": "type:Structured_Solver_Hybrid, supervised_learning, column_selection, column_generation, VRPTW",
+        "number": "4",
+        "pages": "815--831",
+        "title": "Machine-Learning--Based Column Selection for Column Generation",
+        "type": "article",
+        "url": "https://doi.org/10.1287/trsc.2021.1045",
+        "volume": "55",
+        "year": "2021"
+    },
+    "ghosal2020distributionally": {
+        "author": "Ghosal, Shubhechyya and Wiesemann, Wolfram",
+        "doi": "10.1287/opre.2019.1924",
+        "journal": "Operations Research",
+        "keywords": "type:Uncertainty_Modelling, distributionally_robust_optimization, chance_constrained, stochastic_VRP, branch_and_cut",
+        "number": "3",
+        "pages": "716--732",
+        "title": "The Distributionally Robust Chance-Constrained Vehicle Routing Problem",
+        "type": "article",
+        "url": "https://doi.org/10.1287/opre.2019.1924",
+        "volume": "68",
+        "year": "2020"
+    },
+    "hottung2022neural": {
+        "author": "Hottung, Andr\\'{e} and Tierney, Kevin",
+        "doi": "10.1016/j.artint.2022.103786",
+        "journal": "Artificial Intelligence",
+        "keywords": "type:Neural_Improvement, large_neighborhood_search, attention_mechanism, repair_heuristic, CVRP, SDVRP, CTOP",
+        "pages": "103786",
+        "title": "Neural Large Neighborhood Search for Routing Problems",
+        "type": "article",
+        "url": "https://doi.org/10.1016/j.artint.2022.103786",
+        "volume": "313",
+        "year": "2022"
+    },
+    "kool2019attention": {
+        "author": "Kool, Wouter and van Hoof, Herke and Welling, Max",
+        "booktitle": "Proceedings of the 7th International Conference on Learning Representations (ICLR 2019)",
+        "keywords": "type:Neural_Construction, attention_mechanism, CVRP, SDVRP, OP, PCTSP, reinforcement_learning",
+        "note": "ICLR 2019. No publisher DOI assigned; OpenReview URL is canonical.",
+        "title": "Attention, Learn to Solve Routing Problems!",
+        "type": "inproceedings",
+        "url": "https://openreview.net/forum?id",
+        "year": "2019"
+    },
+    "kwon2020pomo": {
+        "author": "Kwon, Yeong-Dae and Choo, Jinho and Kim, Byoungjip and Yoon, Iljoo and Gwon, Youngjune and Min, Seungjai",
+        "booktitle": "Advances in Neural Information Processing Systems",
+        "doi": "10.48550/arXiv.2010.16011",
+        "keywords": "type:Neural_Construction, reinforcement_learning, multiple_optima, CVRP, TSP, transformer",
+        "note": "NeurIPS 2020. No publisher DOI assigned; arXiv DOI refers to preprint arXiv:2010.16011.",
+        "pages": "21188--21198",
+        "title": "{POMO}: Policy Optimization with Multiple Optima for Reinforcement Learning",
+        "type": "inproceedings",
+        "url": "https://proceedings.neurips.cc/paper/2020/hash/f231f2107df69eab0a3862d50018a9b2-Abstract.html",
+        "volume": "33",
+        "year": "2020"
+    },
+    "lu2020learning": {
+        "author": "Lu, Hao and Zhang, Xingwen and Yang, Shuang",
+        "booktitle": "Proceedings of the 8th International Conference on Learning Representations (ICLR 2020)",
+        "keywords": "type:Neural_Improvement, reinforcement_learning, iterative_improvement, CVRP, adaptive_operator_selection",
+        "note": "ICLR 2020. No publisher DOI assigned; OpenReview URL is canonical.",
+        "title": "A Learning-Based Iterative Method for Solving Vehicle Routing Problems",
+        "type": "inproceedings",
+        "url": "https://openreview.net/forum?id",
+        "year": "2020"
+    },
+    "nazari2018reinforcement": {
+        "author": "Nazari, MohammadReza and Oroojlooy, Afshin and Snyder, Lawrence V. and Tak\\'{a}\\v{c}, Martin",
+        "booktitle": "Advances in Neural Information Processing Systems",
+        "doi": "10.5555/3327546.3327651",
+        "keywords": "type:Neural_Construction, reinforcement_learning, actor_critic, CVRP",
+        "pages": "9839--9849",
+        "title": "Reinforcement Learning for Solving the Vehicle Routing Problem",
+        "type": "inproceedings",
+        "url": "https://dl.acm.org/doi/10.5555/3327546.3327651",
+        "volume": "31",
+        "year": "2018"
+    },
+    "qiao2025combined": {
+        "author": "Qiao, Yu and Miao, Jianjun and Huang, Xiaoying",
+        "doi": "10.1109/ACCESS.2025.3583984",
+        "journal": "IEEE Access",
+        "keywords": "type:Generative_Extension, diffusion_model, reinforcement_learning, VRPMSTW, soft_time_windows",
+        "pages": "113529--113543",
+        "title": "A Combined Diffusion Model and Reinforcement Learning Approach for Solving the Vehicle Routing Problem with Multiple Soft Time Windows",
+        "type": "article",
+        "url": "https://doi.org/10.1109/ACCESS.2025.3583984",
+        "volume": "13",
+        "year": "2025"
+    },
+    "ulmer2020modeling": {
+        "author": "Ulmer, Marlin W. and Goodson, Justin C. and Mattfeld, Dirk C. and Thomas, Barrett W.",
+        "doi": "10.1016/j.ejtl.2020.100008",
+        "journal": "EURO Journal on Transportation and Logistics",
+        "keywords": "type:Uncertainty_Modelling, route_based_MDP, dynamic_VRP, stochastic_VRP, approximate_dynamic_programming",
+        "pages": "100008",
+        "title": "On Modeling Stochastic Dynamic Vehicle Routing Problems",
+        "type": "article",
+        "url": "https://doi.org/10.1016/j.ejtl.2020.100008",
+        "volume": "9",
+        "year": "2020"
+    },
+    "vinyals2015pointer": {
+        "author": "Vinyals, Oriol and Fortunato, Meire and Jaitly, Navdeep",
+        "booktitle": "Advances in Neural Information Processing Systems",
+        "doi": "10.5555/2969239.2969378",
+        "keywords": "type:Neural_Construction, pointer_network, attention_mechanism, TSP, supervised_learning",
+        "pages": "2692--2700",
+        "title": "Pointer Networks",
+        "type": "inproceedings",
+        "url": "https://papers.nips.cc/paper/5866-pointer-networks",
+        "volume": "28",
+        "year": "2015"
+    }
+};
