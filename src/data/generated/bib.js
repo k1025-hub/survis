@@ -168,4 +168,4 @@
   doi       = {10.1287/mnsc.6.1.80},
   url       = {https://doi.org/10.1287/mnsc.6.1.80},
   keywords  = {vehicle_routing, classical}
-}}
+}};
