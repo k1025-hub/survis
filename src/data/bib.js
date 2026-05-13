@@ -1,15 +1,15 @@
 const generatedBibEntries = {
     "bai2023analytics": {
         "author": "Bai, Ruibin and Chen, Xiang and Chen, Zhi-Long and others",
-        "doi": "10.1111/itor.13141",
-        "journal": "International Transactions in Operational Research",
+        "doi": "10.1080/00207543.2021.2013566",
+        "journal": "International Journal of Production Research",
         "keywords": "type:Background, survey, vehicle_routing",
-        "number": "3",
-        "pages": "1128--1181",
+        "number": "1",
+        "pages": "4--30",
         "title": "Analytics and Machine Learning in Vehicle Routing Research",
         "type": "article",
-        "url": "https://doi.org/10.1111/itor.13141",
-        "volume": "30",
+        "url": "https://doi.org/10.1080/00207543.2021.2013566",
+        "volume": "61",
         "year": "2023"
     },
     "baty2024combinatorial": {
@@ -28,8 +28,9 @@ const generatedBibEntries = {
     "chen2019learning": {
         "author": "Chen, Xinyun and Tian, Yuandong",
         "booktitle": "Advances in Neural Information Processing Systems",
-        "doi": "10.5555/3454287.3454968",
+        "doi": "10.48550/arXiv.1810.00337",
         "keywords": "type:Neural_Improvement, reinforcement_learning, iterative_rewriting, CVRP, neural_combinatorial_optimization",
+        "note": "NeurIPS 2019. No publisher DOI assigned; arXiv DOI refers to preprint arXiv:1810.00337.",
         "pages": "6278--6289",
         "title": "Learning to Perform Local Rewriting for Combinatorial Optimization",
         "type": "inproceedings",
@@ -124,12 +125,13 @@ const generatedBibEntries = {
     "nazari2018reinforcement": {
         "author": "Nazari, MohammadReza and Oroojlooy, Afshin and Snyder, Lawrence V. and Tak\\'{a}\\v{c}, Martin",
         "booktitle": "Advances in Neural Information Processing Systems",
-        "doi": "10.5555/3327546.3327651",
+        "doi": "10.48550/arXiv.1802.04240",
         "keywords": "type:Neural_Construction, reinforcement_learning, actor_critic, CVRP",
+        "note": "NeurIPS 2018. No publisher DOI assigned; arXiv DOI refers to preprint arXiv:1802.04240.",
         "pages": "9839--9849",
         "title": "Reinforcement Learning for Solving the Vehicle Routing Problem",
         "type": "inproceedings",
-        "url": "https://dl.acm.org/doi/10.5555/3327546.3327651",
+        "url": "https://papers.neurips.cc/paper/8190-reinforcement-learning-for-solving-the-vehicle-routing-problem",
         "volume": "31",
         "year": "2018"
     },
@@ -160,12 +162,13 @@ const generatedBibEntries = {
     "vinyals2015pointer": {
         "author": "Vinyals, Oriol and Fortunato, Meire and Jaitly, Navdeep",
         "booktitle": "Advances in Neural Information Processing Systems",
-        "doi": "10.5555/2969239.2969378",
+        "doi": "10.48550/arXiv.1506.03134",
         "keywords": "type:Neural_Construction, pointer_network, attention_mechanism, TSP, supervised_learning",
+        "note": "NeurIPS 2015. No publisher DOI assigned; arXiv DOI refers to preprint arXiv:1506.03134.",
         "pages": "2692--2700",
         "title": "Pointer Networks",
         "type": "inproceedings",
-        "url": "https://papers.nips.cc/paper/5866-pointer-networks",
+        "url": "https://papers.neurips.cc/paper/5866-pointer-networks",
         "volume": "28",
         "year": "2015"
     }
