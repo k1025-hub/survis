@@ -50,8 +50,8 @@ const generatedBibEntries = {
         "volume": "6",
         "year": "1959"
     },
-    "desaulniers2021machine": {
-        "author": "Desaulniers, Guy and Lodi, Andrea and Morabit, Mouad",
+    "morabit2021machine": {
+        "author": "Morabit, Mouad and Desaulniers, Guy and Lodi, Andrea",
         "doi": "10.1287/trsc.2021.1045",
         "journal": "Transportation Science",
         "keywords": "type:Structured_Solver_Hybrid, supervised_learning, column_selection, column_generation, VRPTW",
